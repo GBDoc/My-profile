@@ -2,7 +2,7 @@ Hi, I'm Dorcas Gbenro! 👋
 
 Welcome to my GitHub profile!
 
-I'm an aspiring Network Engineer and Cybersecurity professional based in Wellingborough, UK. With a background from Lagos State University and a self-taught approach to learning, I'm developing my skills in networking, IT infrastructure, penetration testing, and Governance, Risk, and Compliance (GRC).
+I'm an aspiring Network Engineer and Cybersecurity professional based in UK. With a background from Lagos State University and a self-taught approach to learning, I'm developing my skills in networking, IT infrastructure, penetration testing, and Governance, Risk, and Compliance (GRC).
 
 I'm passionate about technology, solving problems, and gaining hands-on experience through practical labs. I'm always eager to learn new skills, explore technologies, and grow in the IT and cybersecurity industry.
 
