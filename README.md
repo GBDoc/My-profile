@@ -2,7 +2,7 @@ Hi, I'm Dorcas Gbenro! 👋
 
 Welcome to my GitHub profile!
 
-I'm an aspiring Network Engineer and Cybersecurity professional based in UK. With a background from Lagos State University and a self-taught approach to learning, I'm developing my skills in networking, IT infrastructure, penetration testing, and Governance, Risk, and Compliance (GRC).
+I'm an aspiring Network Engineer and Cybersecurity professional based in UK. With a background from University of Lagos and a self-taught approach to learning, I'm developing my skills in networking, IT infrastructure, penetration testing, and Governance, Risk, and Compliance (GRC).
 
 I'm passionate about technology, solving problems, and gaining hands-on experience through practical labs. I'm always eager to learn new skills, explore technologies, and grow in the IT and cybersecurity industry.
 
@@ -38,7 +38,7 @@ Technical Skills: Troubleshooting, problem-solving, and continuous learning.
 
 🎯 My Goals
 
-Become a skilled and competent Network Engineer.
+Become a skilled and competent Network Engineer and GRC Consultant.
 
 Earn my Cisco Certified Network Associate (CCNA) certification.
 
@@ -58,9 +58,9 @@ I enjoy travelling and building home labs! I love discovering new places and exp
 
 I'm happy to connect with fellow learners, networking professionals, and cybersecurity enthusiasts.
 
-LinkedIn: Connect with me on LinkedIn — replace this with your profile URL.
+LinkedIn: www.linkedin.com/in/dorcasgbenro
 
-Email: Contact me by email — replace this with your professional email address.
+Email: dorcasogbenro@gmail.com
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey into networking and cybersecurity.
 
